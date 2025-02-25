@@ -19,6 +19,10 @@ To get started, if you haven't already done so:
 2. Next, from the green 'Use this template' button on the right, click and
    choose 'Open in a codespace' from the drop-down menu. This will open up the
    programming interface you will use to learn.
+
+![A screenshot of the repository in GitHub, with Use this template expanded to
+show the Open in a codespace option.](images/open-in-codespace.png)
+
 3. After this, keep reading down the file for further instructions.
 
 ⚙️ **If you prefer to use your own local development setup**
@@ -32,7 +36,6 @@ However only do this if you are sure you know what you're doing.
 Once you have opened your new codespace, you will see an interface which we will
 call the IDE. It should look like this:
 
-TODO: add image
 ![A screenshot of the interface with the files on the left, the code in the middle, and the terminal at the bottom.](images/codespace-interface.png)
 
 You will need to engage with three parts of it:

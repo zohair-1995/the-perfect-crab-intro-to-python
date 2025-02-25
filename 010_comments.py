@@ -1,3 +1,19 @@
+# Before you go any further:
+
+# Our previous version of this Introduction to Programming course was not on
+# GitHub Codespaces, which you are using now - it was on a different platform
+# which was called Replit. We moved away from that platform for a number of
+# reasons, but the content of this course has not changed.
+#
+# As you watch through our videos, like the one below and those coming after it,
+# you will see Kay using a different interface to the one you are using - but
+# don't worry! The text and code are the same, as are the programming principles
+# she's teaching you, as is the way she is running the code. The only difference
+# is how it looks, not how it works.
+
+
+# Now, back to where we were —
+
 # Video alternative: https://vimeo.com/954334215/cbd70ba2fa
 
 # Hello! Welcome to programming. I will guide you through these early steps.
