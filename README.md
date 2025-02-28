@@ -34,7 +34,7 @@ However only do this if you are sure you know what you're doing.
 ## How do I use GitHub Codespaces?
 
 Once you have opened your new codespace, you will see an interface which we will
-call the IDE. It should look like this:
+call the IDE. It should look like this (although may have a different colour):
 
 ![A screenshot of the interface with the files on the left, the code in the middle, and the terminal at the bottom.](images/codespace-interface.png)
 
