@@ -8,7 +8,7 @@
 # We're now going to look at another kind — the list. A list is a sequence of
 # items, and those items can be of any type.
 
-# Here's are two examples:
+# Here are two examples:
 
 my_favourite_numbers = [1, 3, 5, 7, 9]
 my_friends = ["Victoria", "Mel", "Melanie", "Emma"]
