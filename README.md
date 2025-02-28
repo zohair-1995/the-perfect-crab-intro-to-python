@@ -8,10 +8,10 @@ Python, but the ideas will apply to any language.
 
 ## How do I get started?
 
-TODO: add video alternative
 > **Note**
-> If you like videos, follow this video guide to get set up.
-> Otherwise, keep reading below.
+> If you like videos, follow this [video
+> guide](https://vimeo.com/1061335416/4f5eb4a48f) to get set up. Otherwise, keep
+> reading below.
 
 To get started, if you haven't already done so:
 
@@ -45,8 +45,8 @@ You will need to engage with three parts of it:
   this text from) where you'll read and write code.
 * The terminal panel at the bottom, where you'll run code.
 
-TODO: add video alternative
-To set up and learn how to use the interface, please follow the IDE setup video.
+To set up and learn how to use the interface, please follow the [IDE setup
+video](https://vimeo.com/1061335416/4f5eb4a48f).
 
 If you find the default appearance hard to read, you can switch to a different
 colour theme within the IDE.
@@ -89,6 +89,26 @@ complete these to be ready for the assessment, but they might help.
 
 There are video alternatives for each file that you can follow along with. You
 can find them as a link at the top of each file.
+
+## GitHub Codespaces
+
+GitHub Codespaces is owned and managed by GitHub, not Makers - we have just
+chosen to use their platform. There are a generous free number of hours of usage
+per month, and the 60 hours of free usage you would get on The Perfect Crab
+Introduction to Programming course is more than enough to complete it. You
+absolutely do not need to pay for more usage to complete the Makers course,
+although of course if you want to use Github Codespaces for other things apart
+from this, that is up to you.
+
+You can view your [account's current usage under
+"Codespaces"](https://github.com/settings/billing/summary), so you can keep an
+eye on how many hours you've used, should you wish.
+
+Please be aware that if you do provide payment information to GitHub, and set a
+non-zero limit on your spending, and use any GitHub Codespace for many hours,
+you can personally be charged so by proceeding you do so at your own risk with
+this understanding. For more information on GitHub Codespaces and paying for
+usage, please consult GitHub's own documentation for the latest details.
 
 ## I have some feedback about the material
 

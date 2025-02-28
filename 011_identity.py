@@ -42,9 +42,8 @@ print(just_return_it(4))
 #   python 011_identity.py
 #
 
-TODO: reference video alternative
 # If you don't see the terminal, watch this video:
-# https://vimeo.com/954334352/1f0dee9379
+# https://vimeo.com/1061335416/4f5eb4a48f
 #
 # After running the command, you should see:
 #
