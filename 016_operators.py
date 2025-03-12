@@ -5,7 +5,8 @@
 # further`. I'm going to give you some more terminology.
 
 def add_one(num):
-  return num + 1
+    return num + 1
+
 
 # You may need to widen the panel or zoom out to see the table:
 
@@ -83,7 +84,18 @@ print(f"2 ** 3 = {expr} (should be 8)")
 
 # OPERATOR PLAYGROUND STARTS
 
+#playing around with some assignment operators:
+x = 2
+x += 3
+print(f"x += 3 should give x = {x} (should be 5)")
 
+y = 2
+y *= 3
+print(f"y *= 3 should give x = {y} (should be 6)")
+
+a = 2
+a **= 3
+print(f"a **= 3 should give x = {a} (should be 8)")
 
 # OPERATOR PLAYGROUND ENDS
 
