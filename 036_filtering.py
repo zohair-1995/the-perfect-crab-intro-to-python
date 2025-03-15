@@ -36,7 +36,12 @@ print("Function: only_positive_numbers")
 
 # Return a new list with only the positive numbers
 def only_positive_numbers(numbers):
-  pass
+  positive_numbers = []   #this is our accumulator
+  for number in numbers:  #we go through each number within the list of numbers
+    #if number is positive i.e greater than zero then it will append it to the accumulator:
+    if number > 0:
+      positive_numbers.append(number)
+  return positive_numbers
 
 check_that_these_are_equal(
   only_positive_numbers([-4, 4, -3, 3]), [4, 3])
