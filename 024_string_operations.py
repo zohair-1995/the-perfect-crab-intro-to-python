@@ -13,7 +13,7 @@ from lib.helpers import check_that_these_are_equal
 
 # Here's an example:
 
-length = len("Hello!")
+length = len("Hello!!!!")
 print(f"The string is {length} characters long")
 
 # @TASK: Try it out yourself by changing the string "Hello!" above, and then
