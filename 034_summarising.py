@@ -40,7 +40,7 @@ print(text)
 
 another_text = "\n".join(lines)
 # Uncomment this next line if you want to see it
-# print(another_text)
+print(another_text)
 
 # `join` is actually little smarter — it only adds the `\n` character between
 # lines, not at the end also.
