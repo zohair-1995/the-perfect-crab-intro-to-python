@@ -17,6 +17,7 @@
 my_dictionary = {
   "String": "A sequence of characters",
   "List": "A sequence of any item",
+  "Dictionary": "A book that contains a list of words in alphabetical order and explains their meanings"
 }
 
 # Note that:
@@ -37,6 +38,6 @@ print("  " + my_dictionary["List"])
 # the code around line 21. Then print out the value below.
 
 print("A Dictionary is:")
-# ...
+print(" " + my_dictionary["Dictionary"])
 
 # Once you're done, move on to 038_dict_operations.py
