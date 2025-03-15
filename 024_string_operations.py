@@ -40,7 +40,7 @@ old_string = "Hello, YOUR_NAME!"
 new_string = old_string.replace("YOUR_NAME", "Kay")
 
 # Uncomment this next line to see the result print(new_string)
-
+print(new_string)
 # You'll notice here that the function is coming in a different place. Let's
 # compare `len` and `replace`:
 
